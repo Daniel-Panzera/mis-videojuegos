@@ -29,6 +29,10 @@ while ejecutando:
     if teclas[pygame.K_DOWN]:
         y += velocidad
 
+    # El cuadrado no puede salir de la pantalla
+    x = max(0, min(ANCHO - 50, x))
+    y = max(0, min(ALTO - 50, y))
+
     # 2) ACTUALIZAR (no hace falta en este juego tan simple)
 
     # 3) DIBUJAR
