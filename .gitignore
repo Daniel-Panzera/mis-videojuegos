@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Variables de entorno y secretos
+.env
+*.key
+credentials.json
+
+# Editores
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini
