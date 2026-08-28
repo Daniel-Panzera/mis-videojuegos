@@ -25,5 +25,8 @@ desktop.ini
 record.txt
 
 # Material de estudio personal: preguntas y respuestas de cada clase.
-# Son notas propias, no forman parte de la entrega. Ver CLAUDE.md.
+# Son notas propias, no forman parte de la entrega.
 *respuestas*
+
+# Instrucciones locales para el asistente de IA
+CLAUDE.md
