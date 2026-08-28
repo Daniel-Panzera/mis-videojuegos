@@ -23,3 +23,7 @@ desktop.ini
 
 # Récord local de Nibbles (se regenera al jugar)
 record.txt
+
+# Material de estudio personal: preguntas y respuestas de cada clase.
+# Son notas propias, no forman parte de la entrega. Ver CLAUDE.md.
+*respuestas*
