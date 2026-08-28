@@ -20,3 +20,6 @@ credentials.json
 # Windows
 Thumbs.db
 desktop.ini
+
+# Récord local de Nibbles (se regenera al jugar)
+record.txt

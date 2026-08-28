@@ -18,3 +18,4 @@ python -m pip install pygame-ce
 | Carpeta | Juego | Cómo ejecutarlo |
 |---|---|---|
 | `clase_01_primeros_pasos/` | Ventana con un cuadrado que se mueve con las flechas | `python clase_01_primeros_pasos\juego.py` |
+| `clase_02_nibbles/` | Nibbles: la viborita, con manzana dorada y récord | `python clase_02_nibbles\nibbles.py` |
